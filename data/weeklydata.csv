@@ -1,0 +1,7 @@
+Resource,ProjectId,Project Description,Investment Manager, 10/28/2024,11/4/2024,11/11/2024,11/18/2024,11/25/2024
+res1,pr001,upgrade,pm1,15,15,10,13,11
+res1,pr002,upgrade,pm2,10,12,12,15,12
+res2,pr001,upgrade,pm1,15,15,10,13,11
+res2,pr002,upgrade,pm2,15,15,10,13,11
+res3,pr001,upgrade,pm1,15,15,10,13,11
+res3,pr002,upgrade,pm2,15,15,10,13,11
